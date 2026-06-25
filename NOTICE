@@ -1,0 +1,13 @@
+PHINEAS case study and reference implementation
+Copyright 2026 Jim Vinson (Vinson Consulting)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+This repository is a public case study and a synthetic reference
+implementation. It is not the production PHINEAS application. The
+vocabulary data is invented, the prompts are paraphrased, and no
+client data, credentials, or configuration are included.

@@ -1,0 +1,27 @@
+{
+  "_note": "SYNTHETIC, ILLUSTRATIVE DATA. Every entry below was invented for this reference implementation. This is not the production PHINEAS vocabulary database, and these are not authoritative CEFR reference assignments. Do not cite these levels for teaching.",
+  "entries": [
+    { "termNormalized": "teacher", "isPhrase": false, "entries": [{ "pos": "noun", "level": "A2" }], "cefrLevel": "A2" },
+    { "termNormalized": "gave", "isPhrase": false, "entries": [{ "pos": "verb", "level": "A2" }], "cefrLevel": "A2" },
+    { "termNormalized": "lesson", "isPhrase": false, "entries": [{ "pos": "noun", "level": "B1" }], "cefrLevel": "B1" },
+    { "termNormalized": "genuine", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "B1" }], "cefrLevel": "B1" },
+    { "termNormalized": "diligent", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "B2" }], "cefrLevel": "B2" },
+    { "termNormalized": "nuisance", "isPhrase": false, "entries": [{ "pos": "noun", "level": "B2" }], "cefrLevel": "B2" },
+    { "termNormalized": "meticulous", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "C1" }], "cefrLevel": "C1" },
+    { "termNormalized": "run", "isPhrase": false, "entries": [{ "pos": "verb", "level": "A1" }, { "pos": "noun", "level": "B2" }], "cefrLevel": "A1" },
+    { "termNormalized": "cat", "isPhrase": false, "entries": [{ "pos": "noun", "level": "A1" }], "cefrLevel": "A1" },
+    { "termNormalized": "water", "isPhrase": false, "entries": [{ "pos": "noun", "level": "A1" }], "cefrLevel": "A1" },
+    { "termNormalized": "happy", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "A1" }], "cefrLevel": "A1" },
+    { "termNormalized": "beautiful", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "A2" }], "cefrLevel": "A2" },
+    { "termNormalized": "decide", "isPhrase": false, "entries": [{ "pos": "verb", "level": "B1" }], "cefrLevel": "B1" },
+    { "termNormalized": "environment", "isPhrase": false, "entries": [{ "pos": "noun", "level": "B1" }], "cefrLevel": "B1" },
+    { "termNormalized": "significant", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "B2" }], "cefrLevel": "B2" },
+    { "termNormalized": "consequence", "isPhrase": false, "entries": [{ "pos": "noun", "level": "B2" }], "cefrLevel": "B2" },
+    { "termNormalized": "inevitable", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "C1" }], "cefrLevel": "C1" },
+    { "termNormalized": "nuance", "isPhrase": false, "entries": [{ "pos": "noun", "level": "C1" }], "cefrLevel": "C1" },
+    { "termNormalized": "ubiquitous", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "C2" }], "cefrLevel": "C2" },
+    { "termNormalized": "esoteric", "isPhrase": false, "entries": [{ "pos": "adjective", "level": "C2" }], "cefrLevel": "C2" },
+    { "termNormalized": "book", "isPhrase": false, "entries": [{ "pos": "noun", "level": "A1" }, { "pos": "verb", "level": "B1" }], "cefrLevel": "A1" },
+    { "termNormalized": "look after", "isPhrase": true, "entries": [{ "pos": "phrasal verb", "level": "B1" }], "cefrLevel": "B1" }
+  ]
+}
