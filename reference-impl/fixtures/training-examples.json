@@ -1,0 +1,17 @@
+{
+  "_note": "SYNTHETIC, ILLUSTRATIVE DATA. These stand in for full-analysis corrections a trainer might have submitted. The text and the endorsed levels are invented for this reference. The production prompts and real trainer corrections are not reproduced here.",
+  "examples": [
+    {
+      "inputText": "The kerfuffle at the school gate delayed every class this morning.",
+      "correctedAssessedLevel": "B1",
+      "correctedReasoning": "Most of this sits around B1. 'kerfuffle' is informal but common in classroom talk, so treat it as B2 rather than the harder estimate.",
+      "correctedLevelHints": { "kerfuffle": "B2" }
+    },
+    {
+      "inputText": "Please do not nitpick every small error while the learner is still speaking.",
+      "correctedAssessedLevel": "B2",
+      "correctedReasoning": "'nitpick' reads as B2 in a teaching context rather than the longer-word default of C1.",
+      "correctedLevelHints": { "nitpick": "B2" }
+    }
+  ]
+}
