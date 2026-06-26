@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/assets/flywheel-header.jpg" alt="A scholar at a desk beside a great mechanical wheel in a vaulted archive — the data flywheel" width="100%"></p>
+
 # PHINEAS: a CEFR teaching assistant, and the data flywheel behind it
 
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
