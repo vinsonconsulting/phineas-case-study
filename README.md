@@ -4,8 +4,11 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![CI](https://github.com/vinsonconsulting/phineas-case-study/actions/workflows/ci.yml/badge.svg)](https://github.com/vinsonconsulting/phineas-case-study/actions/workflows/ci.yml)
+[![status: live · beta trials](https://img.shields.io/badge/status-live%20%C2%B7%20beta%20trials-2ea44f.svg)](https://phineas.app)
 [![Live](https://img.shields.io/badge/product-phineas.app-d97706.svg)](https://phineas.app)
 [![Reference impl](https://img.shields.io/badge/code-synthetic%20reference-6E9F18.svg)](reference-impl)
+
+**Status:** Live at [phineas.app](https://phineas.app), built and operated by me — currently in active beta-user trials with the client.
 
 PHINEAS is a CEFR teaching assistant for ESL educators. Paste in a text and it tells you the CEFR level, breaks the vocabulary down word by word, rewrites the passage one level easier and one level harder, and suggests which words to pre-teach. It runs at [phineas.app](https://phineas.app).
 
